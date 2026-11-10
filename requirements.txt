@@ -1,0 +1,13 @@
+gradio>=4.0.0
+plotly
+pandas
+requests
+scikit-learn
+statsmodels
+scipy
+libpysal
+esda
+shapely
+geopandas
+streamlit
+numpy
