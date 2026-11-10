@@ -1,6 +1,8 @@
-gradio>=4.0.0
+streamlit
+gradio
 plotly
 pandas
+numpy
 requests
 scikit-learn
 statsmodels
@@ -9,5 +11,3 @@ libpysal
 esda
 shapely
 geopandas
-streamlit
-numpy
