@@ -127,7 +127,7 @@ if _en_streamlit():
 # 0. CONFIGURACIÓN EDITABLE (créditos, periodo, conexión)
 # -----------------------------------------------------------------------------
 CREDITOS = {
-    "autores": ["JHON EDILBERTO ORTIZ"],
+    "autores": ["JHON EDILBERTO ORTIZ", "GEOVANNY NANDRES OLIVA"],
     "rol": "Estudiante de Seminario de Investigación",
     "programa": "Programa de Economía",
     "facultad": "[Facultad de Ciencias Económicas y Administrativas]",
